@@ -51,7 +51,6 @@
   alt: Picture of TBD
   topic: Topic
   description: Jingkuan Song is a full professor with the School of Computer Science and Technology at Tongji University. His research interests include large-scale multimedia retrieval, image/video segmentation and understanding using techniques such as hashing, graph learning, and deep learning. He was a Postdoc Research Scientist at Columbia University (2016--2017) and a Research Fellow at the University of Trento (2014-2016). He obtained his Ph.D. degree in 2014 from The University of Queensland, Australia. He was the winner of the Best Paper Award at ICPR 2016, the Best Student Paper Award at the Australian Database Conference 2017, and the ACM SIGMM Rising Star Award in 2021. Jingkuan has served as the Demo Chair of ACM MM Asia 2020, Workshop Chair of APWeb 2019, and the Area Chair of ACM MM 2018-2023, among others. He serves as an Associate Editor for IEEE TMM and ACM TOMM, and has been a Guest Editor for TMM, PR, and a PC member for CVPR, ACM MM, IJCAI, etc. (2018-2023).
-
 - title: Jiebo Luo
   name: Jiebo Luo
   subtitle: University of Rochester
@@ -60,5 +59,16 @@
   alt: Picture of TBD
   topic: Topic
   description: Jiebo Luo is the Albert Arendt Hopeman Professor of Engineering and a Professor of Computer Science at the University of Rochester, which he joined in 2011 after a prolific 15-year career at Kodak Research Laboratories. He received his Ph.D. from the University of Rochester. His research spans computer vision, natural language processing, machine learning, data mining, computational social science, and digital health. He has authored more than 600 technical papers and holds over 90 U.S. patents. He is a Fellow of the National Academy of Inventors (NAI), ACM, AAAI, SPIE, IAPR, and Academia Europaea. He received the 2021 ACM SIGMM Award for Outstanding Technical Contributions to Multimedia Computing, Communications and Applications, the 2024 Debra Haring Excellence in Research Award, and the 2024 William H. Riker University Award for Excellence in Graduate Teaching. He has served as Program Co-Chair for ACM Multimedia 2010, IEEE CVPR 2012, ACM ICMR 2016, and IEEE ICIP 2017, and General Co-Chair for ACM Multimedia 2018 and IEEE ICME 2024. He served on the editorial boards of IEEE TPAMI, IEEE TMM, IEEE TCSVT, IEEE TBD, ACM TIST, PR, KAIS, MVA, etc. and was the Editor-in-Chief of IEEE TMM from 2020 to 2022. 
+
+- title: Xiaoyan Gu
+  name: Xiaoyan Gu
+  subtitle: University of Chinese Academy of Sciences
+  img: gxy.png
+  thumbnail: gxy.png
+  alt: Picture of TBD
+  topic: Topic
+  description: Xiaoyan Gu (Member, IEEE) received the Ph.D. degree from the University of Chinese Academy of Sciences, in 2014. She is currently a Professor of Engineering with the Institute of Information Engineering, Chinese Academy of Sciences. Her research interests include data security, artificial intelligence security, and big data management. She was the winner of the Best Student Paper Award in ACM ICMR, in 2019.
+
+
 
 
