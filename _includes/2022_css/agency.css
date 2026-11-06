@@ -57,6 +57,18 @@ p.large {
     font-size: 130%;
 }
 
+#programs p.large {
+    font-size: 145%;
+}
+
+#programs p.large.text-muted {
+    font-size: 120%;
+}
+
+#programs h3 {
+    font-size: 28px;
+}
+
 
 a,
 a:hover,
